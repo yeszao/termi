@@ -1,6 +1,6 @@
 This handbook is created for people who sits in office for a long time.
 
-[中文版本](zh_CN.md)
+[中文](zh_CN.md)
 
 # Healthy eyes
 1. Use a high-resolution computer
