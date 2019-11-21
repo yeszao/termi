@@ -1,4 +1,3 @@
-# Health office handbook
 This handbook is created for people who sits in office for a long time.
 
 # Healthy eyes
@@ -8,3 +7,7 @@ This handbook is created for people who sits in office for a long time.
   - iMac Pro, 24-inch, 5120×2880 (5K)
   - iMac, 27-inch, 4096×2304 (4K)
 2. Take regular breaks
+
+
+# Healthy body
+1. Burpee (exercise)
