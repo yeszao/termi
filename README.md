@@ -1,5 +1,7 @@
 This handbook is created for people who sits in office for a long time.
 
+[中文版本](README-zh_CN.md)
+
 # Healthy eyes
 1. Use a high-resolution computer
   - HUAWEI MateBook X Pro, 13.9-inch, 3000×2000 (3K)
