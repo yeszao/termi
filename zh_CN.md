@@ -1,6 +1,6 @@
 该手册适用于久坐办公室的人。
 
-[[English](README.md)]
+[English](README.md)
 
 # 1 健康的眼睛
 ## 1.1 使用大屏且高分辨率屏幕
