@@ -29,7 +29,7 @@
 ## 2.1 波比跳运动
 波比跳，是burpee音译，是一项结合深蹲、俯卧撑、屈腿收腹等训练的复合动作，训练的肌肉包括核心、手臂、胸肌、背部等，能用到全身75%肌肉。
 
-![](https://raw.githubusercontent.com/yeszao/termi/master/pobee.webp)
+![](pobee.webp)
 
 > 10次为1组，每天做1-8组，即可达到调节心肺功能、减肥、锻炼肌肉功效。关键在于坚持。
 
