@@ -28,8 +28,6 @@
 - **macOS 10.14+**：选取苹果菜单 ，“系统偏好设置 - 通用”，外观选择“深色”选项。
 - **Ubuntu 18.04+**：安装深色主题`sudo apt install -y gnome-tweaks && gnome-tweaks`，弹出的对话框中，修改“Appearance - Themes - Applications”为“Adwaita-dark”。
 
-## 多看纸质书，少看电子书
-比如
 
 ## 波比跳运动
 波比跳，是burpee音译，是一项结合深蹲、俯卧撑、屈腿收腹等训练的复合动作，训练的肌肉包括核心、手臂、胸肌、背部等，能用到全身75%肌肉。
