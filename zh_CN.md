@@ -24,9 +24,9 @@
 - 软件2
 
 ## 电脑使用深色（暗黑）模式
-- **Windows 10+**：进入“设置 - 个性化 - 颜色”设置界面，往下滚动窗口，在“更多选项 - 选择默认应用模式”中选择“暗”。
-- **macOS 10.14+**：菜单“ - 系统偏好设置 - 通用”，外观选择“深色”选项。
-- **Ubuntu 18.04+**：安装深色主题`sudo apt install -y gnome-tweaks && gnome-tweaks`，弹出的对话框中，修改“Appearance - Themes - Applications”为“Adwaita-dark”。
+- **Windows 10 +**：进入“设置 - 个性化 - 颜色”设置界面，往下滚动窗口，在“更多选项 - 选择默认应用模式”中选择“暗”。
+- **macOS 10.14 +**：菜单“ - 系统偏好设置 - 通用”，外观选择“深色”选项。
+- **Ubuntu 18.04 +**：安装深色主题`sudo apt install -y gnome-tweaks && gnome-tweaks`，弹出的对话框中，修改“Appearance - Themes - Applications”为“Adwaita-dark”。
 
 
 ## 波比跳运动
