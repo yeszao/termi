@@ -10,10 +10,10 @@
 - [笔记本：华为MateBook X Pro]() - 13.9寸, 3000×2000分辨率, Windows、Linux系统
 - [笔记本：惠普Spectre x360]() - 15.6寸, 3840×2160分辨率, Windows、Linux系统
 - [笔记本：联想Y9000X]() - 15.6寸, 3840×2160分辨率, Windows、Linux系统
-- [笔记本：苹果Macbook Pro]() - 16寸, 3072×1920分辨率, MacOS系统
+- [笔记本：苹果Macbook Pro]() - 16寸, 3072×1920分辨率, macOS系统
 - [一体机：微软Surface Studio 2]() - 28寸, 4500×3000分辨率, Windows、Linux系统
-- [一体机：苹果iMac Pro]() - 24寸, 5120×2880分辨率, MacOS系统
-- [一体机：苹果iMac]() - 27寸, 4096×2304分辨率, MacOS系统
+- [一体机：苹果iMac Pro]() - 24寸, 5120×2880分辨率, macOS系统
+- [一体机：苹果iMac]() - 27寸, 4096×2304分辨率, macOS系统
 - [显示器：DELL U2718Q]() - 27寸, 3840×2160分辨率
 - [显示器：LG 27UL850]() - 27寸, 3840×2160分辨率
 - [显示器：明基EW3270U]() - 31.5寸, 3840×2160分辨率
@@ -21,12 +21,14 @@
 > 选择显示器前请先确保显卡支持
 
 ## 定时休息
-- 软件1
-- 软件2
+- [stretchly](https://hovancik.net/stretchly/downloads/) - 跨平台（支持Windows、macOS、Linux系统）的定时锁屏强制休息软件。
+- [Big Stretch Reminder](https://monkeymatt.com/bigstretch/) - Windows系统定时锁屏强制休息软件。
+- [Time Out](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12) - macOS系统定时锁屏强制休息软件。
 
-## 电脑使用深色（暗黑）模式
-- **Windows 10 +**：进入“设置 - 个性化 - 颜色”设置界面，往下滚动窗口，在“更多选项 - 选择默认应用模式”中选择“暗”。
-- **macOS 10.14 +**：菜单“ - 系统偏好设置 - 通用”，外观选择“深色”选项。
+
+## 系统使用暗黑模式
+- **Windows 10 +**：打开“设置 - 个性化 - 颜色”设置界面，往下滚动窗口，在“更多选项 - 选择默认应用模式”中选择“暗”。
+- **macOS 10.14 +**：打开“系统偏好设置 - 通用”，外观选择“深色”选项。
 - **Ubuntu 18.04 +**：安装深色主题`sudo apt install -y gnome-tweaks && gnome-tweaks`，弹出的对话框中，修改“Appearance - Themes - Applications”为“Adwaita-dark”。
 
 
