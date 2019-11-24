@@ -27,6 +27,7 @@
 
 
 ## 系统使用暗黑模式
+电脑系统在暗黑模式下会将原来大块白色的区域换成灰色，这样能大幅**降低屏幕亮度，减少眼睛疲劳**。
 - **Windows 10 +**：打开“设置 - 个性化 - 颜色”设置界面，往下滚动窗口，在“更多选项 - 选择默认应用模式”中选择“暗”。
 - **macOS 10.14 +**：打开“系统偏好设置 - 通用”，外观选择“深色”选项。
 - **Ubuntu 18.04 +**：安装深色主题`sudo apt install -y gnome-tweaks && gnome-tweaks`，弹出的对话框中，修改“Appearance - Themes - Applications”为“Adwaita-dark”。
