@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker
+comments: true
 google_analytics: UA-120664363-4
 titles_from_headings:
   enabled:     true
