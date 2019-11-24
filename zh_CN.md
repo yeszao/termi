@@ -20,9 +20,9 @@
 > 选择显示器前请先确保显卡支持
 
 ## 定时休息
-多项研究表明，久坐、久卧的静态行为会增加心血管病、恶性肿瘤的风险，从整体上看也会导致死亡风险的增加。运动带来的好处不会抵消静态的坏处，“要么玩命锻炼，要么一动不动”的生活方式并不是最好的。坐着、躺着别太久，不时起来活动一下四肢、蹦蹦跳跳都是有好处的。
+> _长时间坐着会增加肥胖、高血糖、高血压、心血管疾病和癌症而死亡的风险。 - [梅奥诊所](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005)_
 
-上班的时候总是忘了怎么办？那就安装一个软件帮我们完成把，如下是几款好用的定时休息软件，能够定时提醒或强制我们每隔一段时间休息3～5分钟。
+如下是几款定时休息软件，能够定时提醒或强制我们间隔性的小憩。
 
 - [stretchly](https://hovancik.net/stretchly/downloads/) - 跨平台（支持Windows、macOS、Linux系统）的定时锁屏强制休息软件。
 - [Big Stretch Reminder](https://monkeymatt.com/bigstretch/) - Windows系统定时锁屏强制休息软件。
