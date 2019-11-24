@@ -6,7 +6,6 @@
 [English](README.md)
 
 ## 使用大屏且高分辨率屏幕
-
 - [笔记本：华为MateBook X Pro]() - 13.9寸, 3000×2000分辨率, Windows、Linux系统
 - [笔记本：惠普Spectre x360]() - 15.6寸, 3840×2160分辨率, Windows、Linux系统
 - [笔记本：联想Y9000X]() - 15.6寸, 3840×2160分辨率, Windows、Linux系统
@@ -21,6 +20,10 @@
 > 选择显示器前请先确保显卡支持
 
 ## 定时休息
+多项研究表明，久坐、久卧的静态行为会增加心血管病、恶性肿瘤的风险，从整体上看也会导致死亡风险的增加。运动带来的好处不会抵消静态的坏处，“要么玩命锻炼，要么一动不动”的生活方式并不是最好的。坐着、躺着别太久，不时起来活动一下四肢、蹦蹦跳跳都是有好处的。
+
+上班的时候总是忘了怎么办？那就安装一个软件帮我们完成把，如下是几款好用的定时休息软件，能够定时提醒或强制我们每隔一段时间休息3～5分钟。
+
 - [stretchly](https://hovancik.net/stretchly/downloads/) - 跨平台（支持Windows、macOS、Linux系统）的定时锁屏强制休息软件。
 - [Big Stretch Reminder](https://monkeymatt.com/bigstretch/) - Windows系统定时锁屏强制休息软件。
 - [Time Out](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?mt=12) - macOS系统定时锁屏强制休息软件。
