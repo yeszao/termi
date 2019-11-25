@@ -1,4 +1,4 @@
-This handbook is created for people who sits in office for a long time.
+# Snatch Lifespan Plan
 
 [中文](zh_CN.md)
 
